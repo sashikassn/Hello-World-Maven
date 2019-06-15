@@ -1,3 +1,3 @@
 # maven-project
 
-Simple Maven Project
+Simple Maven Project for DevOps Project CI/CD (tomcat and Jenkins)
